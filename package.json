@@ -1,0 +1,17 @@
+{
+  "name": "memoize",
+  "version": "0.1.0",
+  "description": "cached results via your key fn, with a size cap",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "BSD-3-Clause",
+  "dependencies": {}
+}
