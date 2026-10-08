@@ -1,6 +1,6 @@
 {
   "name": "memoize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "cached results via your key fn, with a size cap",
   "type": "module",
   "main": "src/index.js",
